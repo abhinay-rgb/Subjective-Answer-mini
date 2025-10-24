@@ -42,7 +42,7 @@ nltk.download('wordnet')
 Make sure you're in the project directory, then start the app with:
 
 ```bash
-streamlit run ak.py
+streamlit run code.py
 ```
 
 This will launch the app in your default web browser at [http://localhost:8501](http://localhost:8501).
