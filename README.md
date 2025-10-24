@@ -75,8 +75,8 @@ subjective-evaluator/
 
 ## 👨‍💻 Author
 
-**Akshith Boini**  
-GitHub: [@Akshith2112](https://github.com/Akshith2112)
+**Abhinay Kumar**  
+GitHub: [@Abhinay](https://github.com/abhinay-rgb)
 
 
 ---
